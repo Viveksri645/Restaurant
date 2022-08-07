@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'SimmiFoodCorner'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_44CCE7131DBC4B14BCF01A830B86F20B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4C85380916614992896D50AC61F6EDD8 }}
           package: .
